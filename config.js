@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -205,20 +205,20 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'users',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Blog',
+					link: 'https://blog.tswhale.eu.org',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Drive',
+					link: 'https://drive.tswhale.eu.org',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Scholar',
+					link: 'https://scholar.tswhale.eu.org',
 				},
 				{
 					name: 'Repos',
