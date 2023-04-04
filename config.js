@@ -135,20 +135,20 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'cloud-cog',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'GitHub',
+					link: 'https://www.github.com/tsgit741',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Vercel',
+					link: 'https://www.vercel.com/tsgit741',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Cloudflare',
+					link: 'https://dash.cloudflare.com',
 				},
 				{
 					name: 'Rock',
@@ -161,16 +161,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Mail',
+					link: 'https://outlook.live.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Calendar',
+					link: 'https://outlook.live.com/calendar/0/view/week',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com',
 				},
 				{
 					name: 'Slack',
@@ -183,7 +183,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'gamepad',
 			id: '1',
 			links: [
 				{
@@ -191,8 +191,8 @@ const CONFIG = {
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'YouTube',
+					link: 'https://www.youtube.com',
 				},
 				{
 					name: 'Hashnode',
@@ -221,8 +221,8 @@ const CONFIG = {
 					link: 'https://scholar.tswhale.eu.org',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'Chatgpt',
+					link: 'https://chat.tswhale.eu.org',
 				},
 			],
 		},
