@@ -135,30 +135,8 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'cloud-cog',
-			id: '1',
-			links: [
-				{
-					name: 'GitHub',
-					link: 'https://www.github.com/tsgit741',
-				},
-				{
-					name: 'Vercel',
-					link: 'https://www.vercel.com/tsgit741',
-				},
-				{
-					name: 'Cloudflare',
-					link: 'https://dash.cloudflare.com',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
 			icon: 'coffee',
-			id: '2',
+			id: '1',
 			links: [
 				{
 					name: 'Mail',
@@ -173,34 +151,8 @@ const CONFIG = {
 					link: 'https://chat.openai.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
-			],
-		},
-	],
-
-	// Second Links Container
-	secondListsContainer: [
-		{
-			icon: 'gamepad',
-			id: '1',
-			links: [
-				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
-				},
-				{
-					name: 'YouTube',
-					link: 'https://www.youtube.com',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'To do',
+					link: 'https://to-do.live.com/tasks/inbox',
 				},
 			],
 		},
@@ -226,5 +178,54 @@ const CONFIG = {
 				},
 			],
 		},
+	],
+
+	// Second Links Container
+	secondListsContainer: [
+		{
+			icon: 'gamepad',
+			id: '1',
+			links: [
+				{
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
+				},
+				{
+					name: 'YouTube',
+					link: 'https://www.youtube.com',
+				},
+				{
+					name: 'Bilibili',
+					link: 'https://Bilibili.com',
+				},
+				{
+					name: 'Pocket',
+					link: 'https://www.pocket.com',
+				},
+			],
+		},
+		{
+			icon: 'cloud-cog',
+			id: '2',
+			links: [
+				{
+					name: 'GitHub',
+					link: 'https://www.github.com/tsgit741',
+				},
+				{
+					name: 'Vercel',
+					link: 'https://www.vercel.com/tsgit741',
+				},
+				{
+					name: 'Cloudflare',
+					link: 'https://dash.cloudflare.com',
+				},
+				{
+					name: 'Rock',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				},
+			],
+		},
+		
 	],
 };
