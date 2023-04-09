@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://chat.openai.com',
 				},
 				{
-					name: 'To do',
-					link: 'https://to-do.live.com/tasks/inbox',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 			],
 		},
@@ -195,8 +195,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Bilibili',
-					link: 'https://Bilibili.com',
+					name: 'DDYS',
+					link: 'https://ddys.art',
 				},
 				{
 					name: 'Alist',
