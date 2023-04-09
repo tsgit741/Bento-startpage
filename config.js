@@ -199,8 +199,8 @@ const CONFIG = {
 					link: 'https://Bilibili.com',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Alist',
+					link: 'https://alist.tswhale.eu.org',
 				},
 			],
 		},
@@ -221,8 +221,8 @@ const CONFIG = {
 					link: 'https://dash.cloudflare.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Replit',
+					link: 'https://replit.com/@tsre',
 				},
 			],
 		},
