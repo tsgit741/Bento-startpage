@@ -166,7 +166,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Drive',
-					link: 'https://drive.tswhale.eu.org',
+					link: 'https://alist.tswhale.eu.org',
 				},
 				{
 					name: 'Scholar',
